@@ -1,1 +1,1 @@
-Source code for mail.ru & MIPT Golang course
+Source code for mail.ru & MIPT Golang course  
